@@ -8,6 +8,6 @@ Currently using Visual Code Studio as editor.
 * Functions in Erlang - (1.18 to 1.27)
 
 ### Files used:
-* first.erl - (1.1 to 1.9)
+* [first.erl] (Week1/first.erl) - (1.1 to 1.9)
 * second.erl - (1.9)
 * third.erl - (1.10 to 1.14)
