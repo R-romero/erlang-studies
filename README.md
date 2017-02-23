@@ -1,2 +1,4 @@
-# erlang-studies
-My Studies following the Functional Programming in Erlang course in futurelearn.com.
+# Erlang Studies
+  #Following: https://www.futurelearn.com/courses/functional-programming-erlang/
+
+#Week 1
