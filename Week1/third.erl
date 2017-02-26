@@ -16,4 +16,5 @@ xOr(_,_) ->
 xOrF(X,X) -> %Here we take a different approach by first eliminating the false results(in this case, if X = Y(X))
     false;      %and then matching anything different as true
 xOrF(_,_) -> 
-    true.
+true.
+
